@@ -45,3 +45,11 @@ https://www.acmicpc.net/problem/2941
 std::npos == string.find() 값을 찾았을 시 true
 s.replace(index, alpha[j].size(), "a");
 1. 바꿀 값의 index. 2. 몇글자나 바꿀지, 3. 바꿀 값.
+
+----
+## Leetcode 24 노드값 스왑하기.
+### 문제 분류 : 링크드리스트
+https://leetcode.com/problems/swap-nodes-in-pairs/
+
+#### 해결 방법
+- 현재노드를 앞으로 변경하며 value swap
